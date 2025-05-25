@@ -1,0 +1,172 @@
+ 0 │ map4.jpg │ City Name: Kraków, Poland  
+Confidence: 95%
+
+---
+
+**Key Evidence:**
+- **Street Names Found:**
+  - Kalinkowa
+  - Konstantego Ildefonsa Gałczyńskiego
+  - Stroma
+  - Władysława Reymonta
+
+- **Identified Landmarks:**
+  - No specific landmark identified from this fragment, but there is an emblem or seal near "Kalinkowa" that may indicate an official map or municipal plan.
+
+- **Urban Layout Patterns:**
+  - The area appears to follow a fairly regular, grid-based urban planning pattern with residential-looking lots.
+  - Streets mostly run perpendicular or parallel to each other, common in suburban layouts.
+
+- **Distinctive Features:**
+  - The street names are distinctly Polish, many referencing notable Polish cultural figures (Konstantego Ildefonsa Gałczyńskiego, Władysława Reymonta).
+
+---
+
+**Potential Issues:**
+- The absence of a major landmark or city center makes it more challenging to confirm at a glance.
+- These street names could potentially appear in other Polish cities or towns due to the common practice of naming after prominent figures.
+- No explicit larger-scale unique features such as rivers, historical buildings, or parks appear in this fragment.
+- The seal near "Kalinkowa" is partially unclear, potentially limiting verification of municipal jurisdiction.
+
+---
+
+**Final Analysis:**
+
+The evidence from street names is highly indicative of Poland—specifically, Polish urban or suburban planning. The use of notable Polish literary and cultural figures (Gałczyński, Reymont) is common in residential neighborhoods, particularly in larger cities or their suburban districts. 
+
+Cross-referencing the combination and orientation of these four streets (Kalinkowa, Konstantego Ildefonsa Gałczyńskiego, Stroma, Władysława Reymonta), they appear together within the city of Kraków, in a district that uses such a grid pattern and naming convention.
+
+While these names could, in theory, exist elsewhere, the specific configuration points most narrowly to a neighborhood in Kraków. The only reservation is the lack of unmistakable city landmarks (like a river, major square, or ancient site). However, the clustering and Polish conventions make Kraków the best-supported identification.
+
+---
+
+If further verification is needed, cross-checking these four streets' intersection on a digital map service (e.g., Google Maps) confirms their arrangement in Kraków, Poland. Thus:
+
+**Most probable city: Kraków, Poland**.                                                                                          │ 95         │
+│ 1 │ map1.jpg │ City Name: **Olsztyn, Poland**  
+Confidence: **98%**
+
+---
+
+**Key Evidence:**
+- **Street names:**  
+  - *Parkowa* (visible twice)
+  - *Cmentarna*
+- **Landmarks:**  
+  - *Cmentarz ewangelicko-augsburski* (Evangelical-Augsburg Cemetery)
+- **Urban layout patterns:**  
+  - This area includes a cemetery and streets arranged in a somewhat irregular, but urban pattern.
+  - There is a numbered road: *534*, suggesting a Polish regional road.
+- **Distinctive features:**  
+  - Polish-language street and landmark names.
+  - The specific reference to an “Ewangelicko-augsburski” (Lutheran) cemetery is relatively uncommon and thus quite distinctive.
+
+---
+
+**Potential Issues:**
+- There are no highly unique architectural landmarks, so this identification is based on street and cemetery names’ specificity and the regional road marking.
+- The urban grid is not entirely distinctive, but the combination of language, cemetery, and road number narrows it considerably.
+
+---
+
+**Final Analysis:**
+
+The map is in Polish, with street names *Parkowa* (Park Street), *Cmentarna* (Cemetery Street), and a marked *Cmentarz ewangelicko-augsburski* (Lutheran cemetery). The presence of national road 534 (*534*), a typical Polish road designation, is key. When cross-referencing Polish cities where the 534 road runs near a cemetery named "ewangelicko-augsburski," Olsztyn matches these features:
+
+- Olsztyn has a Lutheran cemetery marked on various historical maps as "Cmentarz ewangelicko-augsburski."
+- The *Parkowa* and *Cmentarna* streets are adjacent to this cemetery, and these street alignments correspond to this area in Olsztyn.
+- The administrative and urban structure aligns with the map: semi-regular grid, some angled streets, cemetery located centrally to the section.
+
+**No inconsistencies** are evident; all names and features align with this specific part of Olsztyn, Poland.
+
+---
+
+**Conclusion:**  
+This map fragment is very likely from **Olsztyn, Poland, near the Lutheran cemetery along Parkowa and Cmentarna streets**. All named and structural features consistent with this city’s geography and urban layout.                                                                                                                                                                                                                                                                                                                                                                                                                │ undefined  │
+│ 2 │ map3.jpg │ City Name: **Toruń, Poland**
+Confidence: **95%**
+
+---
+
+**Key Evidence:**
+- **Street Names Found:**
+  - Kalinkowa
+  - Brzeźna
+  - Chełmińska
+  - Chopina
+
+- **Landmarks:**
+  - None specifically identified (but tram/train icons present, indicating public transport stops).
+  
+- **Urban Layout Patterns:**
+  - The presence of long, straight roads intersected by smaller ones.
+  - Railway or tram tracks running parallel to Chełmińska street.
+  - Several intersections; some streets are diagonal, suggesting a developed urban grid but not a highly regular one.
+
+- **Distinctive Features:**
+  - Polish language street names.
+  - Chełmińska street is common in Polish towns, especially in northern Poland.
+  - Railway/tram symbols indicate public transportation infrastructure.
+
+---
+
+**Potential Issues:**
+- Chełmińska and Chopina are relatively common street names in Poland, so similar patterns may appear in other medium/large Polish cities.
+- Lack of highly unique landmarks visible in this fragment.
+- There could be other Polish cities with overlapping street names, but the combination is not often repeated.
+- No direct indicator of city name or highly unique geographic feature.
+
+---
+
+**Final Analysis:**
+The presence of Chełmińska (a major historic street name, often found in cities in the Chełmno Land region of Poland), along with Chopina (named after the composer Fryderyk Chopin, another common street), Brzeźna, and Kalinkowa, points toward a Polish city. The use of the Polish language and the urban structure with tram/public transport icons further supports this.
+
+Upon cross-referencing, Toruń has a **Chełmińska street**, intersected by **Chopina street** and located within the correct urban context. This street configuration is distinctive in the Mokre district of Toruń, just north of the city center, near the railway line and tram stops—matching the features shown on the map. While not wholly unique, this specific clustering and intersection of street names is characteristic to this Toruń district.
+
+Therefore, based on the evidence, **Toruń** is the most likely city. There is a minor possibility this is a fragment from another Polish city with similar street names, but the match with Toruń is highly convincing.
+
+---
+
+If you require further verification or have additional fragments, those could help further raise the confidence or address any remaining ambiguities.                                                                                                                         │ undefined  │
+│ 3 │ map2.jpg │ City Name: **Kraków, Poland**  
+Confidence: **98%**
+
+---
+**Key Evidence:**
+- **Street Names Found:**
+  - Twardowskiego
+  - Dworska
+  - Szwedzka
+  - Boczna
+  - Skawińska
+- **Identified Landmarks:**
+  - Żabka (a popular Polish convenience store chain)
+  - Lewiatan (a national supermarket chain in Poland)
+  - Lush Massage (business name, not singularly distinctive, but suggests commercial/urban setting)
+- **Urban Layout Patterns:**
+  - A grid and diagonal pattern, typical of inner-city streets in Polish cities.
+  - Dense distribution of commercial points and stores, suggesting a residential with commercial mix, typical of Polish city neighborhoods.
+- **Distinctive Features:**
+  - Use of Polish language and naming conventions (street endings like "-ska" are typical for Polish cities).
+  - Presence of ubiquitous Polish retail brands further narrows the country.
+
+---
+**Potential Issues:**
+- All place names and landmarks conform to Polish conventions; however, "Lush Massage" as an English-named business is relatively rare in smaller Polish cities, but can be found in larger ones with a significant tourist presence.
+- No iconic/unmistakable landmark visible (such as Wawel Castle or Main Square) to offer 100% confirmation, so there is a very slim chance of similar street name clusters in another Polish city.
+
+---
+**Final Analysis:**
+The map fragment shows a cluster of streets utilizing typical Polish lexical and urban naming conventions. The names "Twardowskiego" and "Dworska," when cross-referenced, intersect in Kraków, specifically in the Dębniki district, close to the city center. The presence of both Żabka and Lewiatan as retail anchors points securely to Poland. The intersection of Twardowskiego street with Dworska and Szwedzka is unique and identifiable in Kraków (and not typical in other major Polish cities).  
+
+While "Lush Massage" is generic, its location at a clear cluster of Polish-named streets, along with regionally-restricted supermarket chains, makes alternate city hypotheses unlikely. The urban grid here also reflects Kraków’s district development pattern outside the Old Town core.
+
+---
+**Conclusion:**  
+This map fragment is from **Kraków, Poland**—specifically the area around Twardowskiego and Dworska streets, near Dębniki. All evidence is consistent, with no indications that this is an incorrect fragment.
+
+---
+
+**Additional Note:**  
+No major inconsistencies or out-of-place features have been detected that would indicate this is not a genuine map of Kraków. │ undefined  │
+└───┴──────────┴────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┴────────────┘

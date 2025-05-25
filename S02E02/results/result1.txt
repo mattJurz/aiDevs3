@@ -1,0 +1,13 @@
+──────────────────────────────────────────────────────────────────────────────┼────────────┤
+│ 0 │ map4.jpg │ City Name: Olsztyn
+Confidence: 80%
+Explanation: The map features street names in Polish, such as "Konstantego Ildefonsa Gałczyńskiego" and "Władysława Reymonta", which are common in cities in Poland. The circular emblem with "Olsztyn" inside it suggests this is a map of the city of Olsztyn.                                                             │ 80         │
+│ 1 │ map1.jpg │ City Name: Wrocław
+Confidence: 90%
+Explanation: The map features Polish street names such as "Parkowa" and places like "Cmentarz ewangelicko-augsburski." Additionally, the road number "354" aligns with those found in or around Wrocław, Poland. These clues strongly suggest that the map is of Wrocław.                                                    │ 90         │
+│ 2 │ map3.jpg │ City Name: Gdańsk
+Confidence: 85%
+Explanation: The street names on the map, such as "Chełmińska," "Brzeźna," "Kalinowska," and "Chopina," are indicative of names typically found in Poland. The combination of these streets is most likely found in Gdańsk, which is a city where these street names align closely with its geography and naming conventions. │ 85         │
+│ 3 │ map2.jpg │ City Name: Kraków
+Confidence: 80%
+Explanation: The map shows street names such as "Twardowskiego" and "Szwedzka," which are located in Kraków, Poland. Additionally, "Żabka" and "Lewiatan" are common store names in Poland, which supports the identification of this location as a Polish city. These details suggest the map depicts a part of Kraków.      │ 80         │

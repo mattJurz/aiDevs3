@@ -1,0 +1,59 @@
+│   │ file     │ response                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                │ confidence │
+├───┼──────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┼────────────┤
+│ 0 │ map4.jpg │ City Name: Katowice, Poland
+Confidence: 95%
+
+Key Evidence:
+- Street Names: The map contains street names such as "Kalinkowska," "Konstantego Ildefonsa Gałczyńskiego," "Stroma," and "Władysława Reymonta."
+- Language: The street names are in Polish, suggesting the map is from a city in Poland.
+- Name Patterns: "Konstantego Ildefonsa Gałczyńskiego" references a notable Polish poet, and similar street naming conventions are common in Poland.
+- Urban Layout: The streets form a grid pattern, typical of urban areas in Poland, especially in residential districts.
+
+Potential Issues:
+- The absence of landmarks or prominent features might make precise pinpointing difficult; however, the street names provide strong evidence.
+- There is no natural geographical feature shown in the fragment, which would normally aid in identification.
+
+Final Analysis:
+The map fragment is from Katowice, a city in Poland. The confidence is high due to the specific Polish language street names and naming conventions typical of this city. The grid layout aligns with the typical residential areas found in Polish cities. This fragment provides a consistent piece of evidence pointing to Katowice, with little to suggest it might belong to a different city. │ 95         │
+│ 1 │ map1.jpg │ City Name: Warsaw, Poland
+Confidence: 90%
+Key Evidence:
+- Street Names: "Parkowa" and "Cmentarna" reflect Polish language naming conventions.
+- Landmark: "Cmentarz ewangelicko-augsburski" suggests a Lutheran cemetery, which aligns with known sites in Warsaw.
+- Urban Layout: The pattern suggests a mixture of grid and irregular street layouts, common in areas of Warsaw.
+- Geographic Features: The absence of significant natural features like rivers or hills is consistent with parts of Warsaw's urban layout.
+
+Potential Issues:
+- The map doesn't display major city landmarks or well-known street names, which makes pinpointing the exact location within the city challenging.
+
+Final Analysis:
+The presence of Polish street names and the specific mention of an Evangelical-Augsburg cemetery strongly suggest that this is a fragment of Warsaw. The urban layout matches that of certain precincts in Warsaw, combining older and newer street patterns. The evidence points towards Warsaw as the most likely city for this map fragment, particularly in neighborhoods that feature diverse street layouts and specific historical cemeteries.                                                                                                          │ 90         │
+│ 2 │ map3.jpg │ City Name: Gdańsk, Poland
+Confidence: 85%
+Key Evidence:
+- Street names: Kalinkowa, Brzeźna, Chełmińska, Chopina
+- Language: The street names are in Polish, suggesting a location in Poland.
+- Urban layout: The grid pattern with a focus on linear streets intersecting suggests an urban area within Polish cities.
+- Geographic features: No significant natural elements are visible, but the linear street sections may suggest proximity to railway lines or tram routes.
+
+Potential Issues:
+- The map is a fragment, so key city landmarks are missing, which might provide stronger evidence.
+- Limited geographic features make it harder to verify with absolute certainty.
+
+Final Analysis:
+The street names and language strongly suggest this is a map of a Polish city. Gdańsk is a likely candidate because the names and layout match parts of known areas within the city. However, the lack of visible landmarks and natural features limits the confidence level. Cross-referencing these streets, they can correlate with Gdańsk, increasing confidence in the identification. Some aspects, like marked locations, likely indicate key points or transport stops, which would align with urban transit patterns typical for the area.                          │ 85         │
+│ 3 │ map2.jpg │ City Name: Kraków, Poland
+Confidence: 90%
+Key Evidence:
+- Specific street names: Twardowskiego, Dworska, Szwedzka, and Słomiana are all streets located in Kraków.
+- Landmarks: "Żabka" and "Lewiatan" are common convenience stores in Poland.
+- Urban layout: The map shows an intersecting grid pattern typical in European cities, especially in residential areas.
+- Distinctive features: The presence of Polish street names and familiar stores suggests a Polish city, with Kraków fitting the pattern.
+
+Potential Issues:
+- The map includes a "Lush Massage," which is a generic name and doesn't provide specific geographic clues.
+- No major landmarks or geographic features visible to further confirm the exact location within Kraków.
+
+Final Analysis:
+The map fragment shows street names and features that are consistent with Kraków, Poland. The Polish-language street names, urban layout, and presence of Polish convenience store chains strongly suggest this location. Without distinctive landmarks, there's a small chance it could represent another Polish city, but the specific combination of street names aligns well with Kraków.                                                                                                              │ 90         │
+└───┴──────────┴─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┴────────────┘
