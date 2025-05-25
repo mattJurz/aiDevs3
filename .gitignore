@@ -6,3 +6,9 @@ node_modules/
 **/*.db
 .vscode/
 materials/
+
+**/materials/
+lesson-6/audio/
+
+# Ignore the cloned repository
+3rd-devs/
